@@ -1,0 +1,1014 @@
+[
+  {
+    "title": "What was your win this week?",
+    "content": "👋👋👋👋  Looking back on your week -- what was something you're proud of?  All wins count -- big or...",
+    "url": "https://dev.to/devteam/what-was-your-win-this-week-2keg",
+    "tags": [
+      "weeklyretro",
+      "discuss"
+    ]
+  },
+  {
+    "title": "My Thoughts on AI and Jobs Uncertainty",
+    "content": "The rise of artificial intelligence (AI) is reshaping the workplace, much like past technological...",
+    "url": "https://dev.to/jaloplo/my-thoughts-on-ai-and-jobs-uncertainty-5a",
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "title": "A Decade of SolidJS",
+    "content": "As of today, it has been 7 years since I open-sourced SolidJS. It wasn't for noble reasons. I wasn't...",
+    "url": "https://dev.to/this-is-learning/a-decade-of-solidjs-32f4",
+    "tags": [
+      "javascript",
+      "webdev",
+      "solidjs",
+      "devjournal"
+    ]
+  },
+  {
+    "title": "The Vibe Life: Building Smart Keys for Mac",
+    "content": "I didn’t realize I was about to enter the “vibe” industry when I started building Smart Keys. All I...",
+    "url": "https://dev.to/diegodotta/the-vibe-life-building-smart-keys-for-mac-pfn",
+    "tags": [
+      "ios",
+      "ai",
+      "grammar",
+      "programming"
+    ]
+  },
+  {
+    "title": "DevRel in web3: Building systems that scale while the ecosystem is still taking shape",
+    "content": "“Don’t optimize for today. Build the scaffolding for scale.”               Intro   The pace of web3...",
+    "url": "https://dev.to/lolocoding/devrel-in-web3-building-systems-that-scale-while-the-ecosystem-is-still-taking-shape-35d7",
+    "tags": [
+      "web3",
+      "blockchain",
+      "devrel",
+      "community"
+    ]
+  },
+  {
+    "title": "Why Are Buttons Losing the Pointer Cursor? ft. ShadCn",
+    "content": "Developers working with ShadCN v4 and Tailwind CSS v4 noticed something odd: buttons no longer showed...",
+    "url": "https://dev.to/mmvergara/why-are-buttons-losing-the-pointer-cursor-the-shadcn-and-tailwind-debate-2j93",
+    "tags": [
+      "webdev",
+      "javascript",
+      "programming",
+      "discuss"
+    ]
+  },
+  {
+    "title": "GitHub Copilot - Methods, modes, and Models: Which one is the best?",
+    "content": "When someone asks \"what's the best [insert type of tool]\", the answer usually is \"it depends\". What's...",
+    "url": "https://dev.to/mishmanners/github-copilot-methods-modes-and-models-which-one-is-the-best-g6f",
+    "tags": [
+      "github",
+      "githubcopilot",
+      "ai",
+      "tutorial"
+    ]
+  },
+  {
+    "title": "I analyzed how Supabase and Laravel launched. Here's what I learned.",
+    "content": "I recently had the opportunity to contribute to Albane's Substack, analyzing two radically different...",
+    "url": "https://dev.to/fmerian/i-analyzed-how-supabase-and-laravel-launched-heres-what-i-learned-4cdd",
+    "tags": [
+      "showdev",
+      "startup"
+    ]
+  },
+  {
+    "title": "Clearing Up Misconceptions about Copyright",
+    "content": "Clearing up misconceptions about copyright.",
+    "url": "https://dev.to/pauljlucas/clearing-up-misconceptions-about-copyright-2iij",
+    "tags": [
+      "software",
+      "copyright",
+      "ai"
+    ]
+  },
+  {
+    "title": "Top 7 Featured DEV Posts of the Week",
+    "content": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+    "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hc8",
+    "tags": [
+      "top7"
+    ]
+  },
+  {
+    "title": "Strawberry AI Browser Will Blow Your Mind",
+    "content": "What Is Strawberry?   According to their website, “Strawberry is a browser with built-in AI...",
+    "url": "https://dev.to/this-is-learning/strawberry-ai-browser-will-blow-your-mind-17pk",
+    "tags": [
+      "ai",
+      "browser",
+      "productivity",
+      "automation"
+    ]
+  },
+  {
+    "title": "How Much Energy Does ChatGPT Use Per Prompt? A Look at Its Hidden Environmental Costs",
+    "content": "ChatGPT has become a popular tool for generating human-like responses to a wide range of prompts, but...",
+    "url": "https://dev.to/nilanth/how-much-energy-does-chatgpt-use-per-prompt-a-look-at-its-hidden-environmental-costs-2j3a",
+    "tags": [
+      "chatgpt",
+      "ai",
+      "machinelearning",
+      "energy"
+    ]
+  },
+  {
+    "title": "Join us for the Permit.io Authorization Challenge: $3,000 in Prizes and a Mechanical Keyboard for Each Winner 🤩",
+    "content": "We're thrilled to partner with Permit.io for a brand new DEV challenge focused on reimagining...",
+    "url": "https://dev.to/devteam/join-us-for-the-permitio-authorization-challenge-3000-in-prizes-and-a-mechanical-keyboard-for-5ah",
+    "tags": [
+      "devchallenge",
+      "permitchallenge",
+      "webdev",
+      "security"
+    ]
+  },
+  {
+    "title": "How do you talk about/utilize AI with your team at work?",
+    "content": "Saw this post and I'm wondering how teams are incorporating/talking about the use of AI at work.     ...",
+    "url": "https://dev.to/jess/how-do-you-talk-aboututilize-ai-with-your-team-at-work-2g35",
+    "tags": [
+      "discuss",
+      "ai"
+    ]
+  },
+  {
+    "title": "Congrats to the winners of our first-ever WeCoded Challenge!",
+    "content": "We are so excited to announce the winners of our first-ever WeCoded Challenge, our newest way of...",
+    "url": "https://dev.to/devteam/congrats-to-the-winners-of-our-first-ever-wecoded-challenge-1j8i",
+    "tags": [
+      "devchallenge",
+      "wecoded",
+      "dei",
+      "frontend"
+    ]
+  },
+  {
+    "title": "MCP client - Step by Step Guide to Building from Scratch",
+    "content": "In my previous guide, we explored building MCP servers. Today, we'll explore MCP client development...",
+    "url": "https://dev.to/composiodev/mcp-client-step-by-step-guide-to-building-from-scratch-4gpj",
+    "tags": [
+      "ai",
+      "opensource",
+      "python",
+      "deeplearning"
+    ]
+  },
+  {
+    "title": "How I'm Posting This Article Using Model Context Protocol (MCP)",
+    "content": "How I'm Posting This Article Using Model Context Protocol (MCP)   Hey there, fellow...",
+    "url": "https://dev.to/govindup63/how-im-posting-this-article-using-model-context-protocol-mcp-3m8n",
+    "tags": [
+      "tutorial",
+      "ai",
+      "api",
+      "mcp"
+    ]
+  },
+  {
+    "title": "Control Over Speed: My Take on AI Coding",
+    "content": "Recently, I’ve seen a lot of discussion around using AI agents to create software. IDEs and plugins...",
+    "url": "https://dev.to/antonmakarevich/control-over-speed-my-take-on-ai-coding-5g7b",
+    "tags": [
+      "ai",
+      "productivity",
+      "vibecoding",
+      "dotnet"
+    ]
+  },
+  {
+    "title": "Serverless is NOT a Scam.",
+    "content": "The post you are currently reading is a lot of facts, but also a lot of my opinions. It is...",
+    "url": "https://dev.to/best_codes/serverless-is-not-a-scam-356",
+    "tags": [
+      "serverless",
+      "webdev",
+      "discuss",
+      "programming"
+    ]
+  },
+  {
+    "title": "Top 7 Featured DEV Posts of the Week",
+    "content": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+    "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-7on",
+    "tags": [
+      "top7"
+    ]
+  },
+  {
+    "title": "Meme Monday",
+    "content": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+    "url": "https://dev.to/ben/meme-monday-3nmp",
+    "tags": [
+      "discuss",
+      "watercooler",
+      "jokes"
+    ]
+  },
+  {
+    "title": "🚀 Stellar Dev Diaries Series: Episode 1 is LIVE!",
+    "content": "Ever wondered what it takes to build a web3 startup from scratch? In the Stellar Dev Diaries series,...",
+    "url": "https://dev.to/stellar/stellar-dev-diaries-series-episode-1-is-live-10j2",
+    "tags": [
+      "web3",
+      "blockchain",
+      "devdiaries",
+      "sponsored"
+    ]
+  },
+  {
+    "title": "Vibe Coding with Intent: A Tester’s Perspective",
+    "content": "There’s a lot of noise right now around vibe coding.  People are generating entire apps off vibes,...",
+    "url": "https://dev.to/copyleftdev/vibe-coding-with-intent-a-testers-perspective-3f5d",
+    "tags": [
+      "testing",
+      "ai",
+      "programming",
+      "productivity"
+    ]
+  },
+  {
+    "title": "🤨 4 Frustrations in AI Native Development [GPT 4.1]",
+    "content": "tl;dr    Developers often struggle with the applicability of benchmarks, understanding...",
+    "url": "https://dev.to/fernandezbaptiste/4-frustrations-in-ai-native-development-gpt-41-bb0",
+    "tags": [
+      "ai",
+      "productivity",
+      "discuss",
+      "news"
+    ]
+  },
+  {
+    "title": "Protocol Agnostic Framework",
+    "content": "Hey everyone!  After a lot of R&amp;D, multiple design iterations, and endless hours of...",
+    "url": "https://dev.to/m__mdy__m/protocol-agnostic-framework-9p2",
+    "tags": [
+      "discuss",
+      "opensource",
+      "programming",
+      "typescript"
+    ]
+  },
+  {
+    "title": "My unofficial Earth Day post, featuring a few community projects 💚",
+    "content": "Earth Day creeped up on us this year and I'm sorry to say we don't have an official DEV celebration...",
+    "url": "https://dev.to/jess/my-unofficial-earth-day-post-featuring-a-few-community-projects-30o6",
+    "tags": [
+      "watercooler"
+    ]
+  },
+  {
+    "title": "From Frustration to Feature: The Open Source Magic",
+    "content": "When was the last time you felt that \"How is this not a thing yet?\" sensation?   You know, the one...",
+    "url": "https://dev.to/phalkmin/from-frustration-to-feature-the-open-source-magic-1e1b",
+    "tags": [
+      "opensource",
+      "watercooler"
+    ]
+  },
+  {
+    "title": "4o Image Gen - Diffusion/Transformer Cross-over Trend?",
+    "content": "In March we saw 2 major releases of image generation tools ((Google, OpenAI)) that are very much...",
+    "url": "https://dev.to/maximsaplin/4o-image-gen-diffusiontransformer-cross-over-trend-4p6k",
+    "tags": [
+      "openai",
+      "machinelearning",
+      "ai",
+      "genai"
+    ]
+  },
+  {
+    "title": "Optimizing heavy operations in Vue with Web Workers",
+    "content": "Heavy computations on the main thread can lead to sluggish UI, dropped frames, and poor user...",
+    "url": "https://dev.to/jacobandrewsky/optimizing-heavy-operations-in-vue-with-web-workers-3j1b",
+    "tags": [
+      "vue",
+      "performance",
+      "worker",
+      "tutorial"
+    ]
+  },
+  {
+    "title": "Top 7 Featured DEV Posts of the Week",
+    "content": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+    "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5946",
+    "tags": [
+      "top7"
+    ]
+  },
+  {
+    "title": "Introducing \"DUMB DEV\"",
+    "content": "Have you ever wondered \"there aren't enough places on the Internet that are useless and overrun with...",
+    "url": "https://dev.to/devteam/introducing-dumb-dev-5hjl",
+    "tags": [
+      "watercooler",
+      "news",
+      "discuss"
+    ]
+  },
+  {
+    "title": "Deadline Extended for the Alibaba Cloud Web Game Challenge!",
+    "content": "You’ve got more time to build something great! 🎮  We’re extending the deadline for the Alibaba Cloud...",
+    "url": "https://dev.to/devteam/deadline-extended-for-the-alibaba-cloud-web-game-challenge-45ip",
+    "tags": [
+      "alibabachallenge",
+      "gamedev",
+      "webdev",
+      "devchallenge"
+    ]
+  },
+  {
+    "title": "BenQ RD280U Review: A 28\" 4K Monitor Built for Developers",
+    "content": "BenQ sent me this monitor for review, but these are my honest thoughts after a few weeks of...",
+    "url": "https://dev.to/nickytonline/benq-rd280u-review-a-28-4k-monitor-built-for-developers-20d2",
+    "tags": [
+      "productivity",
+      "review"
+    ]
+  },
+  {
+    "title": "Will AI Take My Job?",
+    "content": "When I first heard someone's concern about AI taking their job, I automatically shrugged it off as...",
+    "url": "https://dev.to/anitaolsen/will-ai-take-my-job-1ap0",
+    "tags": [
+      "discuss",
+      "ai"
+    ]
+  },
+  {
+    "title": "You're Not a Programmer Until...",
+    "content": "I originally posted this post on my blog.     These days, I found a post claiming you're not a senior...",
+    "url": "https://dev.to/canro91/youre-not-a-programmer-until-58i",
+    "tags": [
+      "watercooler",
+      "discuss",
+      "programming",
+      "jokes"
+    ]
+  },
+  {
+    "title": "What was your win this week?",
+    "content": "👋👋👋👋  Looking back on your week -- what was something you're proud of?  All wins count -- big or...",
+    "url": "https://dev.to/devteam/what-was-your-win-this-week-3m98",
+    "tags": [
+      "weeklyretro",
+      "discuss"
+    ]
+  },
+  {
+    "title": "CamemBERT: RoBERTa’s French cousin. Trained on OSCAR/CCNet (32B+ tokens). Perfect for NER, sentiment analysis, and custom NLP tasks. Try it! Code tutorial 👇👇",
+    "content": "A post by Alex Nguyen",
+    "url": "https://dev.to/alex-nguyen-duy-anh/camembert-robertas-french-cousin-trained-on-oscarccnet-32b-tokens-perfect-for-ner-5506",
+    "tags": [
+      "ai",
+      "machinelearning",
+      "deeplearning",
+      "nlp"
+    ]
+  },
+  {
+    "title": "Introducing Scrimba Fullstack",
+    "content": "Over the last few years, Scrimba has grown into a community of nearly two million learners focused on...",
+    "url": "https://dev.to/scrimba/introducing-scrimba-fullstack-m5p",
+    "tags": [
+      "node",
+      "nextjs",
+      "programming",
+      "learning"
+    ]
+  },
+  {
+    "title": "DEV Hackathons Coming Soon 👀",
+    "content": "We're currently in the midst of the Alibaba Cloud Web Game Challenge:                                ...",
+    "url": "https://dev.to/devteam/dev-hackathons-coming-soon-4e6i",
+    "tags": [
+      "devchallenge",
+      "permitchallenge",
+      "awschallenge"
+    ]
+  },
+  {
+    "title": "Announcing the Pulumi Deploy and Document Challenge: $3,000 in Prizes!",
+    "content": "We're excited to partner with Pulumi for a new DEV challenge focused on Infrastructure as...",
+    "url": "https://dev.to/devteam/announcing-the-pulumi-deploy-and-document-challenge-3000-in-prizes-887",
+    "tags": [
+      "devchallenge",
+      "pulumichallenge",
+      "webdev",
+      "cloud"
+    ]
+  },
+  {
+    "title": "Three Ways to Fight AI Crawlers",
+    "content": "Until recently, websites were pushing for web crawlers to index their content properly.  Now, a new...",
+    "url": "https://dev.to/this-is-learning/three-ways-to-fight-ai-crawlers-1c2f",
+    "tags": [
+      "webdev",
+      "programming",
+      "ai"
+    ]
+  },
+  {
+    "title": "There are two web game competitions happening now and you should participate in both!",
+    "content": "I just saw a notification from @end3r where he announced the sixth annual gamedev.js jam:           ...",
+    "url": "https://dev.to/jess/there-are-two-web-game-competitions-happening-now-and-you-should-participate-in-both-5bhi",
+    "tags": [
+      "gamechallenge",
+      "devchallenge",
+      "alibabachallenge",
+      "gamedev"
+    ]
+  },
+  {
+    "title": "Llama 4 - 10M Context? Coding? Decent Follow-up?",
+    "content": "Meta has brought the long-awaited Llama 4 models on Saturday, April 5. Llama 3 came out on April 26,...",
+    "url": "https://dev.to/maximsaplin/llama-4-10m-context-coding-decent-follow-up-426n",
+    "tags": [
+      "genai",
+      "llm",
+      "ai",
+      "localllama"
+    ]
+  },
+  {
+    "title": "Pomerium 0.29.0 is Here!",
+    "content": "We're excited to announce version 0.29.0 of Pomerium. If you haven’t heard of us, we’re a zero-trust...",
+    "url": "https://dev.to/pomerium/pomerium-0290-is-here-2km4",
+    "tags": [
+      "zerotrust",
+      "otel",
+      "terraform",
+      "devops"
+    ]
+  },
+  {
+    "title": "Meme Monday",
+    "content": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+    "url": "https://dev.to/ben/meme-monday-3dp",
+    "tags": [
+      "jokes",
+      "watercooler",
+      "discuss"
+    ]
+  },
+  {
+    "title": "Calculating Allowed Downtime for Human Consumption - a follow-up",
+    "content": "Correcting my calculations on allowed downtime and learning from the experience",
+    "url": "https://dev.to/jonasbn/calculating-allowed-downtime-for-human-consumption-a-follow-up-5dni",
+    "tags": [
+      "downtime",
+      "availability",
+      "math"
+    ]
+  },
+  {
+    "title": "Copilot Code Reviewer - What's your experience been like? Worth it?",
+    "content": "Howdy friends! 👋  I've been considering adding GitHub Copilot Code Reviewer to my workflow (well,...",
+    "url": "https://dev.to/iammtander/copilot-code-reviewer-whats-your-experience-been-like-worth-it-235d",
+    "tags": [
+      "discuss",
+      "github",
+      "programming",
+      "tooling"
+    ]
+  },
+  {
+    "title": "Using the Gemini API on Cloud Run to Build a Chat Application",
+    "content": "(🎨 cover image created with Imagen 3 in Gemini!)  Welcome to my blog series on building with Google...",
+    "url": "https://dev.to/chloecondon/using-the-gemini-api-on-cloud-run-to-build-a-chat-application-4673",
+    "tags": [
+      "ai",
+      "python",
+      "cloud",
+      "webdev"
+    ]
+  },
+  {
+    "title": "We should still teach coding",
+    "content": "Software written using generative AI is all over the web. Performance and security issues abound....",
+    "url": "https://dev.to/fastly/we-should-still-teach-coding-3cjh",
+    "tags": [
+      "ai",
+      "llm",
+      "webdev",
+      "learning"
+    ]
+  },
+  {
+    "title": "What was your win this week?",
+    "content": "👋👋👋👋  Looking back on your week -- what was something you're proud of?  All wins count -- big or...",
+    "url": "https://dev.to/devteam/what-was-your-win-this-week-229d",
+    "tags": [
+      "weeklyretro",
+      "discuss"
+    ]
+  },
+  {
+    "title": "Who's hiring? — April 2025",
+    "content": "Product engineers, Developer advocates, or Technical writers?  If you're looking for a new...",
+    "url": "https://dev.to/fmerian/whos-hiring-april-2025-1npa",
+    "tags": [
+      "career",
+      "devrel",
+      "writing",
+      "opensource"
+    ]
+  },
+  {
+    "title": "Finding cool stuff with ChatGPT",
+    "content": "Last week, I wrote a blog post about how I gave new life to an old domain by building a new website...",
+    "url": "https://dev.to/davorg/finding-cool-stuff-with-chatgpt-47gp",
+    "tags": [
+      "web",
+      "chatgpt",
+      "coolstuff",
+      "openai"
+    ]
+  },
+  {
+    "title": "Making Makefiles for fun and profit",
+    "content": "TL;DR: Make is a 48-year-old build automation tool that's still incredibly useful today. This post...",
+    "url": "https://dev.to/aws/making-makefiles-for-fun-and-profit-kl6",
+    "tags": [
+      "programming",
+      "productivity",
+      "genai",
+      "aws"
+    ]
+  },
+  {
+    "title": "The Art of Context: A Game-Changing Approach to Task Management",
+    "content": "Image this, you just ran out to pick up the dry-cleaning before you you leave for your work trip...",
+    "url": "https://dev.to/wraith/the-art-of-context-a-game-changing-approach-to-task-management-3664",
+    "tags": [
+      "productivity"
+    ]
+  },
+  {
+    "title": "Does Gemini Generate Accessible App Code?",
+    "content": "The AI is here, and we all are going to lose our jobs. Or that's what I've been hearing for a while...",
+    "url": "https://dev.to/eevajonnapanula/does-gemini-generate-accessible-app-code-3im7",
+    "tags": [
+      "android",
+      "ai",
+      "programming",
+      "a11y"
+    ]
+  },
+  {
+    "title": "Why Stop Using TypeScript for Small Projects?",
+    "content": "TypeScript is great—until it isn’t. After years of using it everywhere, I realized it’s not always the right choice. Here’s why I’ve stopped using TypeScript for small projects.",
+    "url": "https://dev.to/holasoymalva/stop-using-typescript-for-small-projects-47hl",
+    "tags": [
+      "javascript",
+      "vue",
+      "typescript",
+      "programming"
+    ]
+  },
+  {
+    "title": "The case for “old school” CSS",
+    "content": "Do people still write CSS in CSS files any more? I honestly don’t keep up with the trends as much as...",
+    "url": "https://dev.to/huijing/the-case-for-old-school-css-2k2b",
+    "tags": [
+      "css",
+      "drupal",
+      "webdev"
+    ]
+  },
+  {
+    "title": "From ferris wheels to web animations: trigonometry made simple 😏",
+    "content": "Remember those sine, cosine, and tangent functions from math class? The ones associated with right...",
+    "url": "https://dev.to/karsten_biedermann/from-ferris-wheels-to-web-animations-trigonometry-made-simple-4289",
+    "tags": [
+      "css",
+      "frontend",
+      "webdev",
+      "beginners"
+    ]
+  },
+  {
+    "title": "Just Announced: Future Writing Challenge Winners!",
+    "content": "Back in February, we invited the DEV community and budding Future Community to take part in our very...",
+    "url": "https://dev.to/futureteam/just-announced-future-writing-challenge-winners-2l61",
+    "tags": [
+      "futurechallenge",
+      "ai",
+      "web3"
+    ]
+  },
+  {
+    "title": "AI safety controls at scale with Amazon Bedrock Guardrails",
+    "content": "This week I'm back with another \"learn with me\" on a topic that consistently weighs heavily on me: AI...",
+    "url": "https://dev.to/aws/ai-safety-controls-at-scale-with-amazon-bedrock-guardrails-1o2g",
+    "tags": [
+      "aws",
+      "security",
+      "tutorial",
+      "amazonbedrock"
+    ]
+  },
+  {
+    "title": "I Made a TUI in C... and regretted it",
+    "content": "Hey! You! If you would prefer to consume this article as a video, check this out!               I...",
+    "url": "https://dev.to/kurealnum/i-made-a-tui-in-c-and-regretted-it-2gh5",
+    "tags": [
+      "c",
+      "ncurses",
+      "programming",
+      "coding"
+    ]
+  },
+  {
+    "title": "Is Modern Web Dev Too Complex for Newcomers?",
+    "content": "Inspired by a tweet discussing the challenges of building web apps today, this post explores whether the landscape is too daunting for beginners and revisits how MeteorJS aimed to streamline development with its integrated features.",
+    "url": "https://dev.to/distalx/is-modern-web-dev-too-complex-for-newcomers-5aon",
+    "tags": [
+      "meteor",
+      "reactiveprogramming",
+      "webdev",
+      "batteriesincluded"
+    ]
+  },
+  {
+    "title": "[New] in which language would you create a CRM web-app for a small office?",
+    "content": "for years I have been paying really a lot of money for a CRM web-app which is mediocre. I always...",
+    "url": "https://dev.to/regardingfrock/new-in-which-language-would-you-create-a-crm-web-app-for-a-small-office-56ol",
+    "tags": [
+      "discuss",
+      "php",
+      "nginx",
+      "webdev"
+    ]
+  },
+  {
+    "title": "Join the KendoReact Free Components Challenge: $5,000 in Prizes!",
+    "content": "We are so delighted to partner with Progress to bring the community a brand new DEV...",
+    "url": "https://dev.to/devteam/join-the-kendoreact-free-components-challenge-5000-in-prizes-2896",
+    "tags": [
+      "kendoreactchallenge",
+      "react",
+      "devchallenge",
+      "webdev"
+    ]
+  },
+  {
+    "title": "Teaching Code in the AI Era: Why Fundamentals Still Matter",
+    "content": "As someone who has spent the last decade leading developer relations teams, teaching at coding...",
+    "url": "https://dev.to/aspittel/teaching-code-in-the-ai-era-why-fundamentals-still-matter-1k1g",
+    "tags": [
+      "programming",
+      "beginners"
+    ]
+  },
+  {
+    "title": "Meme Monday",
+    "content": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+    "url": "https://dev.to/ben/meme-monday-1dna",
+    "tags": [
+      "discuss",
+      "jokes",
+      "watercooler"
+    ]
+  },
+  {
+    "title": "New DEV++ Deal: 20% Off Mock Interviews with Interview Kickstart",
+    "content": "We're excited to announce our newest DEV++ membership deal!                  Interview...",
+    "url": "https://dev.to/devteam/new-dev-deal-20-off-mock-interviews-with-interview-kickstart-215b",
+    "tags": [
+      "career",
+      "devplusplus",
+      "webdev",
+      "productivity"
+    ]
+  },
+  {
+    "title": "Self-hosting n8n: the easy way",
+    "content": "n8n is the hottest \"ai native\" automation tool on the market right now. Basically no-code for AI...",
+    "url": "https://dev.to/code42cate/self-hosting-n8n-the-easy-way-3o3m",
+    "tags": [
+      "cloud",
+      "devops",
+      "opensource",
+      "ai"
+    ]
+  },
+  {
+    "title": "Do you ever wish your pair programming sessions had a neutral third voice?",
+    "content": "Hey devs 👋  Curious if others have experienced this:  During pair programming or team discussions, we...",
+    "url": "https://dev.to/sudhanva_mg_3d625287a49b9/do-you-ever-wish-your-pair-programming-sessions-had-a-neutral-third-voice-4l52",
+    "tags": [
+      "programming",
+      "softwareengineering",
+      "productivity",
+      "ai"
+    ]
+  },
+  {
+    "title": "Generating images with Gemini 2.0 Flash",
+    "content": "TL;DR:   This post dives into one of the newer capabilities of the Gemini 2.0 Flash model,...",
+    "url": "https://dev.to/wescpy/generating-images-with-gemini-20-flash-from-google-448e",
+    "tags": [
+      "ai",
+      "python",
+      "node",
+      "api"
+    ]
+  },
+  {
+    "title": "The Building Blocks of an AI Coding Assistant",
+    "content": "In my latest newsletter, I ranted about how most developers approach AI coding assistants wrong....",
+    "url": "https://dev.to/bdougieyo/the-building-blocks-of-an-ai-coding-assistant-2m28",
+    "tags": [
+      "ai",
+      "llm",
+      "coding"
+    ]
+  },
+  {
+    "title": "Congrats to the KendoReact Free Components Challenge Winners!",
+    "content": "The results are in! We're thrilled to announce the winners of the KendoReact Free Components...",
+    "url": "https://dev.to/devteam/congrats-to-the-kendoreact-free-components-challenge-winners-f8f",
+    "tags": [
+      "kendoreactchallenge",
+      "devchallenge",
+      "webdev",
+      "react"
+    ]
+  },
+  {
+    "title": "🔥 Gemma 3 27B vs. QwQ 32B vs. Deepseek R1 comparison ✅",
+    "content": "A few new open source models were released this March 2025, two of them being the QwQ 32B model from...",
+    "url": "https://dev.to/composiodev/gemma-3-27b-vs-qwq-32b-vs-deepseek-r1-comparison-4o90",
+    "tags": [
+      "ai",
+      "javascript",
+      "webdev",
+      "programming"
+    ]
+  },
+  {
+    "title": "Learning GO: Loops and Conditionals",
+    "content": "Let's continue our journey into Go. Last time, we got Go set up in WSL and covered some fundamentals...",
+    "url": "https://dev.to/link2twenty/learning-go-loops-and-conditionals-3hnj",
+    "tags": [
+      "go",
+      "learning",
+      "beginners"
+    ]
+  },
+  {
+    "title": "Top 7 Featured DEV Posts of the Week",
+    "content": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+    "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5cm2",
+    "tags": [
+      "top7"
+    ]
+  },
+  {
+    "title": "TIL efficient subqueries with EXISTS",
+    "content": "Today I was debugging performance issues in one of our reports, and I could not make heads nor tails...",
+    "url": "https://dev.to/epigene/til-efficient-subqueries-with-exists-38l8",
+    "tags": []
+  },
+  {
+    "title": "Building for Users: The Real Purpose of Software Development",
+    "content": "Grab your favorite emotional support squishmallow...this series might sting a bit!  In this...",
+    "url": "https://dev.to/wraith/building-for-users-the-real-purpose-of-software-development-a3a",
+    "tags": [
+      "softwaredevelopment",
+      "softwareengineering"
+    ]
+  },
+  {
+    "title": "Microsoft announces a revolutionary keyboard designed for vibe coding!",
+    "content": "In a groundbreaking move that is sending shockwaves through the developer community, Microsoft has announced the release of the new TabBoard, a next-generation keyboard designed specifically for vibe coding. It features a sleek minimalist design, that consists of a single, perfectly tuned Tab key.",
+    "url": "https://dev.to/alvaromontoro/microsoft-announces-a-revolutionary-keyboard-designed-for-vibe-coding-12d0",
+    "tags": [
+      "webdev",
+      "news",
+      "software",
+      "watercooler"
+    ]
+  },
+  {
+    "title": "Need a mentor for the KendoReact Free Components Challenge?!",
+    "content": "@d2d_weizhi is offering to help :)                                               Weizhi Chen         ...",
+    "url": "https://dev.to/jess/need-a-mentor-for-the-kendoreact-free-components-challenge-3jei",
+    "tags": [
+      "kendoreactchallenge"
+    ]
+  },
+  {
+    "title": "Hope Was Distant, But I’m Still Here",
+    "content": "This is a submission for the WeCoded Challenge: Echoes of Experience             A Glimpse Into My...",
+    "url": "https://dev.to/divya4879/hope-was-distant-but-im-still-here-3gji",
+    "tags": [
+      "devchallenge",
+      "wecoded",
+      "dei",
+      "career"
+    ]
+  },
+  {
+    "title": "SSR Deep Dive for React Developers",
+    "content": "This is the third article in the series \"Web Performance Stuff for React Developers.\" In the...",
+    "url": "https://dev.to/adevnadia/ssr-deep-dive-for-react-developers-542b",
+    "tags": [
+      "webdev",
+      "performance",
+      "webperf",
+      "react"
+    ]
+  },
+  {
+    "title": "Quadratic: The AI-Powered Spreadsheet for Modern Teams",
+    "content": "Spreadsheets have been around for decades, but they’ve largely remained the same: rows, columns, and...",
+    "url": "https://dev.to/quadraticai/quadratic-the-ai-powered-spreadsheet-for-modern-teams-gh2",
+    "tags": [
+      "ai",
+      "python",
+      "javascript",
+      "showdev"
+    ]
+  },
+  {
+    "title": "Top 7 Featured DEV Posts of the Week",
+    "content": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+    "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-al",
+    "tags": [
+      "top7"
+    ]
+  },
+  {
+    "title": "What was your win this week?",
+    "content": "👋👋👋👋  Sorry this is coming in late! Looking back on your week -- what was something you're proud...",
+    "url": "https://dev.to/devteam/what-was-your-win-this-week-1in",
+    "tags": [
+      "weeklyretro",
+      "discuss"
+    ]
+  },
+  {
+    "title": "Currently vibe coding",
+    "content": "A post by Ben Halpern",
+    "url": "https://dev.to/ben/currently-vibe-coding-2l4p",
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "title": "The Adventures of Blink S3e1: It's Time To Start Season 3!",
+    "content": "Hey Pals!  It's finally time to start Season 3!           Youtube, for those who don't feel like...",
+    "url": "https://dev.to/linkbenjamin/the-adventures-of-blink-s3e1-its-time-to-start-season-3-4d78",
+    "tags": [
+      "programming",
+      "git",
+      "beginners"
+    ]
+  },
+  {
+    "title": "Introducing Qodo Gen 1.0: Transform Your Workflow with Agentic AI",
+    "content": "Today, we’re excited to introduce Qodo Gen 1.0 to the community!                  What is Qodo...",
+    "url": "https://dev.to/qodo/introducing-qodo-gen-10-transform-your-workflow-with-agentic-ai-5a96",
+    "tags": [
+      "ai",
+      "news",
+      "machinelearning",
+      "webdev"
+    ]
+  },
+  {
+    "title": "Future of CSS: Select styling without the hacks",
+    "content": "For years the &lt;select&gt; element has been notoriously difficult to style. Developers had to...",
+    "url": "https://dev.to/link2twenty/future-of-css-select-styling-without-the-hacks-38c2",
+    "tags": [
+      "css",
+      "webdev",
+      "ux",
+      "frontend"
+    ]
+  },
+  {
+    "title": "Vibe Coding? Yeah, I've Been Doing It for Two Years",
+    "content": "Not long ago, I stumbled across the term \"vibe coding\" and was kinda blown away. Turns out, the way...",
+    "url": "https://dev.to/vorniches/vibe-coding-yeah-ive-been-doing-it-for-two-years-ea2",
+    "tags": [
+      "programming",
+      "beginners",
+      "ai",
+      "vibecoding"
+    ]
+  },
+  {
+    "title": "Celebrate in Code: An Interactive WeCoded Experience",
+    "content": "This is a submission for the WeCoded Challenge: Celebrate in Code            My WeCoded Game...",
+    "url": "https://dev.to/andreagriffiths11/celebrate-in-code-an-interactive-wecoded-experience-1kef",
+    "tags": [
+      "devchallenge",
+      "wecoded",
+      "dei",
+      "webdev"
+    ]
+  },
+  {
+    "title": "Vibecoding hacks",
+    "content": "Okay, let's ditch the bullet points and LinkedIn-speak. Vibe Coding, at its core, is about building a...",
+    "url": "https://dev.to/sebs/vibecoding-hacks-1ien",
+    "tags": []
+  },
+  {
+    "title": "What was your win this week?",
+    "content": "👋👋👋👋  Looking back on your week -- what was something you're proud of?  All wins count -- big or...",
+    "url": "https://dev.to/devteam/what-was-your-win-this-week-d7f",
+    "tags": [
+      "weeklyretro",
+      "discuss"
+    ]
+  },
+  {
+    "title": "🎵 It's Pi Day, Pi Day, gotta get down on Pi Day 🎵",
+    "content": "A post by Ben Halpern",
+    "url": "https://dev.to/ben/its-pi-day-pi-day-gotta-get-down-on-pi-day-7d1",
+    "tags": [
+      "watercooler"
+    ]
+  },
+  {
+    "title": "#ModelMondays - A Weekly Series To Build Our AI Model IQ",
+    "content": "Welcome to #ModelMondays - a weekly 30-minute livestream with a Discord community and a GitHub repository, to help you keep up with the fast-paced advances in the generative AI model ecosystem!",
+    "url": "https://dev.to/azure/modelmondays-a-weekly-series-to-build-our-ai-model-iq-f6h",
+    "tags": [
+      "ai",
+      "python",
+      "beginners",
+      "opensource"
+    ]
+  },
+  {
+    "title": "Zapier + AgentQL: No-Code Web Data for Smarter Workflows",
+    "content": "Our first Integration Week drop is here: AgentQL is now available in Zapier! It's never been easier...",
+    "url": "https://dev.to/agentql/zapier-agentql-no-code-web-data-for-smarter-workflows-m9b",
+    "tags": [
+      "integrations",
+      "zapier",
+      "automation"
+    ]
+  },
+  {
+    "title": "It’s Not A.I. — Junior Developers Have Always Struggled to Code",
+    "content": "AI, as of late, is taking the blame for making junior developers “worse” at writing code, but in my...",
+    "url": "https://dev.to/thatsoftwaredude/its-not-ai-junior-developers-have-always-struggled-to-code-26gc",
+    "tags": [
+      "webdev",
+      "ai",
+      "programming"
+    ]
+  },
+  {
+    "title": "Join Future’s First Writing Challenge!",
+    "content": "We are so excited to share Future’s first writing challenge with everyone here on DEV. Future is our...",
+    "url": "https://dev.to/futureteam/join-futures-first-writing-challenge-4bj4",
+    "tags": [
+      "futurechallenge",
+      "ai",
+      "web3",
+      "devchallenge"
+    ]
+  },
+  {
+    "title": "Building on modern web app architecture",
+    "content": "What does an in-browser application look like?   A decade ago, the Web 2.0 boom was...",
+    "url": "https://dev.to/quadraticai/building-on-modern-web-app-architecture-40ni",
+    "tags": [
+      "webdev",
+      "webassembly",
+      "rust"
+    ]
+  },
+  {
+    "title": "MCP in Action: How I Use AI to Plan My Week with Goose, Asana, and Google Calendar",
+    "content": "Use MCPs with Goose to automate task management and enhance productivity.",
+    "url": "https://dev.to/blockopensource/mcp-in-action-how-i-use-ai-to-plan-my-week-with-goose-asana-and-google-calendar-292p",
+    "tags": [
+      "mcp",
+      "aiagent",
+      "ai",
+      "goose"
+    ]
+  },
+  {
+    "title": "Building a Secure Flight Booking System with LLM Agent in Langflow",
+    "content": "LangFlow allows developers and non-developers alike to build AI applications through a visual,...",
+    "url": "https://dev.to/permit_io/building-a-secure-flight-booking-system-with-llm-agent-in-langflow-3ml",
+    "tags": []
+  }
+]

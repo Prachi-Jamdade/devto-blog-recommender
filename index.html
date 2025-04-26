@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Article Recommender</title>
+
+  <!-- Load the @xenova/transformers script -->
+  <script type="module">
+    import { pipeline } from 'https://cdn.jsdelivr.net/npm/@xenova/transformers@1.0.1/+esm';
+
+    // Load the transformer model for feature extraction
+    const extractor = await pipeline('feature-extraction', 'Xenova/all-MiniLM-L6-v2');
+
+    // Function to generate embedding for a single article
+    async function generateEmbedding(text) {
+      const output = await extractor(text, { pooling: 'mean', normalize: true });
+      return output.data;
+    }
+
+    // Function to fetch articles (you can replace this with actual article data from a server or API)
+    async function fetchArticles() {
+      const response = await fetch('articles_dataset.json'); // Replace with your source of articles
+      const articles = await response.json();
+      return articles;
+    }
+
+    // Function to recommend articles based on user's input
+    async function recommendArticles(userArticle) {
+      const articles = await fetchArticles(); // Get articles
+      const userEmbedding = await generateEmbedding(userArticle);
+      
+      const recommendations = articles.map(article => {
+        const similarity = calculateSimilarity(userEmbedding, article.embedding); // Assuming you have article embeddings
+        return {
+          title: article.title,
+          url: article.url,
+          similarity: similarity
+        };
+      });
+
+      // Sort articles by similarity
+      recommendations.sort((a, b) => b.similarity - a.similarity);
+      return recommendations.slice(0, 5); // Top 5 recommendations
+    }
+
+    // Calculate cosine similarity between two embeddings
+    function calculateSimilarity(embedding1, embedding2) {
+      let dotProduct = 0;
+      let magnitude1 = 0;
+      let magnitude2 = 0;
+
+      for (let i = 0; i < embedding1.length; i++) {
+        dotProduct += embedding1[i] * embedding2[i];
+        magnitude1 += embedding1[i] ** 2;
+        magnitude2 += embedding2[i] ** 2;
+      }
+
+      magnitude1 = Math.sqrt(magnitude1);
+      magnitude2 = Math.sqrt(magnitude2);
+      
+      return dotProduct / (magnitude1 * magnitude2);
+    }
+
+    // Handle recommend button click
+    async function handleRecommend() {
+      const content = document.getElementById('contentInput').value;
+      if (!content) {
+        alert('Please enter some content.');
+        return;
+      }
+
+      try {
+        // Fetch recommendations
+        const recommendations = await recommendArticles(content);
+
+        // Display recommendations
+        const resultsDiv = document.getElementById('results');
+        resultsDiv.innerHTML = ''; // Clear previous recommendations
+        recommendations.forEach(rec => {
+          const item = document.createElement('div');
+          item.innerHTML = `<a href="${rec.url}" target="_blank">${rec.title}</a> (Similarity: ${rec.similarity.toFixed(2)})`;
+          resultsDiv.appendChild(item);
+        });
+      } catch (error) {
+        console.error('Error:', error);
+        alert('Something went wrong. Check the console for errors.');
+      }
+    }
+  </script>
+</head>
+<body>
+  <h1>📝 Content Based Article Recommendation</h1>
+  <textarea id="contentInput" rows="8" cols="80" placeholder="Paste your article content here..."></textarea><br><br>
+  <button onclick="handleRecommend()">Get Recommendations</button>
+
+  <h2>🔎 Recommended Articles:</h2>
+  <div id="results"></div>
+</body>
+</html>
